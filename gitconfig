@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gregoire@bulle-ikcs.com
+	name = gregoire laqueille
